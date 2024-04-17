@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\0403.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\hellowoild4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\hellowoild4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworid3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\helloworid3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworld2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\helloworld2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworld1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\helloworld1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\\uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\\uBB38\uC81C2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\\uBB38\uC81C3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\\uBB38\uC81C4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\\uBB38\uC81C5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0F46EC2-EAAA-4399-AB38-890522D1D69B}|0403.c\\0403.c.vcxproj|solutionrelative:0403.c\\\uBB38\uC81C6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "helloworld1.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworld1.c",
+              "RelativeDocumentMoniker": "0403.c\\helloworld1.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworld1.c",
+              "RelativeToolTip": "0403.c\\helloworld1.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T00:00:17.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "helloworld2.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworld2.c",
+              "RelativeDocumentMoniker": "0403.c\\helloworld2.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworld2.c",
+              "RelativeToolTip": "0403.c\\helloworld2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T01:38:33.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "helloworid3.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworid3.c",
+              "RelativeDocumentMoniker": "0403.c\\helloworid3.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\helloworid3.c",
+              "RelativeToolTip": "0403.c\\helloworid3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T02:32:14.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hellowoild4.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\hellowoild4.c",
+              "RelativeDocumentMoniker": "0403.c\\hellowoild4.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\hellowoild4.c",
+              "RelativeToolTip": "0403.c\\hellowoild4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T05:19:42.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uBB38\uC81C.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C.c",
+              "RelativeDocumentMoniker": "0403.c\\\uBB38\uC81C.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C.c",
+              "RelativeToolTip": "0403.c\\\uBB38\uC81C.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T00:54:30.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\uBB38\uC81C2.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C2.c",
+              "RelativeDocumentMoniker": "0403.c\\\uBB38\uC81C2.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C2.c",
+              "RelativeToolTip": "0403.c\\\uBB38\uC81C2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T03:30:14.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\uBB38\uC81C3.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C3.c",
+              "RelativeDocumentMoniker": "0403.c\\\uBB38\uC81C3.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C3.c",
+              "RelativeToolTip": "0403.c\\\uBB38\uC81C3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T05:58:34.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\uBB38\uC81C4.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C4.c",
+              "RelativeDocumentMoniker": "0403.c\\\uBB38\uC81C4.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C4.c",
+              "RelativeToolTip": "0403.c\\\uBB38\uC81C4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T06:27:24.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\uBB38\uC81C5.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C5.c",
+              "RelativeDocumentMoniker": "0403.c\\\uBB38\uC81C5.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C5.c",
+              "RelativeToolTip": "0403.c\\\uBB38\uC81C5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T07:32:13.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\uBB38\uC81C6.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C6.c",
+              "RelativeDocumentMoniker": "0403.c\\\uBB38\uC81C6.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0403.c\\0403.c\\\uBB38\uC81C6.c",
+              "RelativeToolTip": "0403.c\\\uBB38\uC81C6.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T05:33:28.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

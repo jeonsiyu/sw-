@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\0402.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|solutionrelative:0402.c\\helloworld5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\hello.world4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|solutionrelative:0402.c\\hello.world4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|solutionrelative:0402.c\\helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|solutionrelative:0402.c\\helloworld2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{831A273E-2CE2-4F12-84B3-2D8DA5B68029}|0402.c\\0402.c.vcxproj|solutionrelative:0402.c\\helloworld3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "helloworld3.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld3.c",
+              "RelativeDocumentMoniker": "0402.c\\helloworld3.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld3.c",
+              "RelativeToolTip": "0402.c\\helloworld3.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T02:44:47.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "helloworld5.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld5.c",
+              "RelativeDocumentMoniker": "0402.c\\helloworld5.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld5.c",
+              "RelativeToolTip": "0402.c\\helloworld5.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T06:02:16.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello.world4.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\hello.world4.c",
+              "RelativeDocumentMoniker": "0402.c\\hello.world4.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\hello.world4.c",
+              "RelativeToolTip": "0402.c\\hello.world4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T04:52:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "helloworld2.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld2.c",
+              "RelativeDocumentMoniker": "0402.c\\helloworld2.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld2.c",
+              "RelativeToolTip": "0402.c\\helloworld2.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T00:41:43.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "helloworld.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld.c",
+              "RelativeDocumentMoniker": "0402.c\\helloworld.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0402.c\\0402.c\\helloworld.c",
+              "RelativeToolTip": "0402.c\\helloworld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-02T00:23:59.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
