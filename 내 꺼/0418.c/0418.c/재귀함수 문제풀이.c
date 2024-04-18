@@ -20,3 +20,5 @@ int main() {
 
 	int result = fact(num);
 	printf("%d", result);
+
+}

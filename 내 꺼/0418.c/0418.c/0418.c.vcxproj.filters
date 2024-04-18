@@ -27,5 +27,8 @@
     <ClCompile Include="재귀함수 문제풀이.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
